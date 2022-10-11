@@ -6,7 +6,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/xmlConfig4J/build/xmlConfig4J.jar" sourcepath="/xmlConfig4J/src">
+	<classpathentry combineaccessrules="false" kind="src" path="/xmlConfig4J">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
