@@ -2,7 +2,7 @@
 
 Localization version config module.
 
-see [TODO add link to tinyLocalization]()
+see [tinyLocalization](https://github.com/tinycodecrank/tinyLocalization)
 
 ## Download
 
