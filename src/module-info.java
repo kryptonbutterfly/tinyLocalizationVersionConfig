@@ -1,9 +1,9 @@
-module de.tinycodecrank.LocalizationVersionConfig
+module kryptonbutterfly.LocalizationVersionConfig
 {
-	exports de.tinycodecrank.i18n.config;
+	exports kryptonbutterfly.i18n.config;
 	
-	opens de.tinycodecrank.i18n.config to de.tinycodecrank.xmlConfig4J;
+	opens kryptonbutterfly.i18n.config to kryptonbutterfly.xmlConfig4J;
 	
-	requires de.tinycodecrank.xmlConfig4J;
+	requires kryptonbutterfly.xmlConfig4J;
 	requires java.xml;
 }

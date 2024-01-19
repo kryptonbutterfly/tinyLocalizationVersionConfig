@@ -1,9 +1,9 @@
-package de.tinycodecrank.i18n.config;
+package kryptonbutterfly.i18n.config;
 
 import java.util.HashMap;
 
-import de.tinycodecrank.xmlConfig4J.StreamConfig;
-import de.tinycodecrank.xmlConfig4J.annotations.Value;
+import kryptonbutterfly.xmlConfig4J.StreamConfig;
+import kryptonbutterfly.xmlConfig4J.annotations.Value;
 
 public class LanguageVersionConfig extends StreamConfig
 {
